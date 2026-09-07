@@ -17,18 +17,30 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"@ripple-ts/eslint-parser": "latest",
-		"@ripple-ts/eslint-plugin": "latest",
-		"@ripple-ts/prettier-plugin": "latest",
-		"@ripple-ts/typescript-plugin": "latest",
-		"@ripple-ts/vite-plugin": "latest",
+		"@ripple-ts/eslint-parser": "0.3.8",
+		"@ripple-ts/eslint-plugin": "0.3.8",
+		"@ripple-ts/prettier-plugin": "0.3.8",
+		"@ripple-ts/typescript-plugin": "0.3.8",
+		"@ripple-ts/vite-plugin": "0.3.8",
 		"@typescript-eslint/parser": "^8.58.1",
 		"eslint": "^9.39.4",
 		"prettier": "^3.8.2",
 		"typescript": "^5.9.3",
-		"vite": "^7.3.2"
+		"vite": "^7.3.6"
 	},
 	"dependencies": {
-		"ripple": "latest"
-	}
+		"ripple": "0.3.8"
+	},
+	"pnpm": {
+		"overrides": {
+			"brace-expansion": "^1.1.18",
+			"devalue": "^5.8.1",
+			"esbuild": "^0.28.2",
+			"@humanfs/node": "^0.16.8",
+			"js-yaml": "^4.3.1",
+			"nanoid": "^3.3.18",
+			"postcss": "^8.5.28"
+		}
+	},
+	"packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
 }
