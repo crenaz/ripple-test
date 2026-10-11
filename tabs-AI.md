@@ -1,4 +1,3 @@
-
 Building AI Agents: How to Get Started : Social Media Examiner
 https://www.socialmediaexaminer.com/building-ai-agents-how-to-get-started/
 
@@ -13,7 +12,6 @@ https://www.facebook.com/story.php?story_fbid=1460495655604833&id=10004933236609
 
 GitHub - HKUDS/ClawWork: "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" · GitHub
 https://github.com/HKUDS/ClawWork
-
 
 Building an App With AI? Follow These 7 Proven Tips for Better Prompts | PCMag
 https://www.pcmag.com/explainers/building-an-app-with-ai-follow-these-7-proven-tips-for-better-prompts
@@ -35,7 +33,6 @@ https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-re
 
 Anthropic introduces Claude Code Review, so you don't even need to check all of your own AI slop | PC Gamer
 https://www.pcgamer.com/software/ai/anthropic-introduces-claude-code-review-so-you-dont-even-need-to-check-all-of-your-own-ai-slop/
-
 
 Md Ismail Sojal - How You can Extremely dangerous in the... | Facebook
 https://www.facebook.com/story.php?story_fbid=1462513545403044&id=100049332366091
@@ -60,7 +57,6 @@ https://www.facebook.com/groups/881330171044518/posts/931691109341757/
 
 Md Ismail Sojal - 250+ notebooks for LLM training. Train... | Facebook
 https://www.facebook.com/story.php?story_fbid=1464163528571379&id=100049332366091
-
 
 Alex AI Update - Holy shit 🤯 You can drop a CLAUDE.md file... | Facebook
 https://www.facebook.com/story.php?story_fbid=122132726288996686&id=61579900588732
@@ -94,7 +90,6 @@ https://www.facebook.com/story.php?story_fbid=122132828258996686&id=615799005887
 
 URL list from Thursday, Mar. 12 2026
 
-
 ‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software | AI (artificial intelligence) | The Guardian
 https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence
 
@@ -110,7 +105,6 @@ https://github.com/formkit/dmux
 GitHub - aiming-lab/MetaClaw: Just talk to your agent — it learns and EVOLVES. · GitHub
 https://github.com/aiming-lab/MetaClaw
 
-
 Alex AI Update - 🚨 R.I.P static AI agents. Someone just built a... | Facebook
 https://www.facebook.com/story.php?story_fbid=122132901296996686&id=61579900588732
 
@@ -120,10 +114,8 @@ https://www.facebook.com/story.php?story_fbid=122121296061087887&id=615826366365
 Alex AI Update - Steal my Claude Code prompt to plan and build any... | Facebook
 https://www.facebook.com/story.php?story_fbid=122132867870996686&id=61579900588732
 
-
 ClawdBody - Preconfigured VM for ClawdeBot
 https://clawdbody.com/
-
 
 Build DeepSeek from Scratch: Series Introduction - YouTube
 https://www.youtube.com/watch?v=QWNxQIq0hMo&list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms
@@ -131,36 +123,29 @@ https://www.youtube.com/watch?v=QWNxQIq0hMo&list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLv
 Claude Code on old laptop - Facebook
 https://www.facebook.com/reel/1548432936367491
 
-
 Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems
 https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html
 
 Prompt injection hack hit 4,000 developers through a GitHub issue title. - Facebook
 https://www.facebook.com/reel/1925701814743858
 
-
 GitHub - VoltAgent/awesome-agent-skills: Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. · GitHub
 https://github.com/VoltAgent/awesome-agent-skills
 
- LLaMA-Factory - Facebook
+LLaMA-Factory - Facebook
 https://www.facebook.com/photo?fbid=122132886656996686&set=a.122125209584996686
 
 GitHub - hiyouga/LlamaFactory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) · GitHub
 https://github.com/hiyouga/LlamaFactory
 
-
 NemoClaw (NemoClaw)
 https://github.com/NemoClaw/
-
 
 AgentMail raises $6M to build an email service for AI agents | TechCrunch
 https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/
 
 Pricing | AgentMail
 https://www.agentmail.to/pricing
-
-
-
 
 OpenClaw Community | # I got tired of AI chatbots… so we turned the entire OS into an AI agent | (possible malware!)
 https://www.facebook.com/groups/1577315533418837/posts/1615722282911495/
@@ -186,11 +171,8 @@ https://www.facebook.com/story.php?story_fbid=122121296061087887&id=615826366365
 Alex AI Update - 🚨 R.I.P static AI agents. Someone just built a... | Facebook
 https://www.facebook.com/story.php?story_fbid=122132901296996686&id=61579900588732
 
-
 Donely Pricing — AI Agent Hosting Plans from $0/mo
 https://donely.ai/pricing
-
-
 
 GitHub - ajpandit775/kaida-shield: The secure runtime for AI agents. Run anything. Break nothing. · GitHub
 https://github.com/ajpandit775/kaida-shield
@@ -207,7 +189,6 @@ https://github.com/boxlite-ai/boxlite
 GitHub - lightpanda-io/browser: Lightpanda: the headless browser designed for AI and automation · GitHub
 https://github.com/lightpanda-io/browser
 
-
 AgentHub (Karpathy) | Ry Walker Research | Ry Walker
 https://rywalker.com/research/agenthub
 
@@ -219,7 +200,6 @@ http://autoresearchhub.com/
 
 AgentHub download | SourceForge.net
 https://sourceforge.net/projects/agenthub.mirror/
-
 
 a tmux based iDE -- Integrating Development Environment : r/tmux
 https://www.reddit.com/r/tmux/comments/1cujt8f/a_tmux_based_ide_integrating_development/
@@ -233,13 +213,11 @@ https://tmux.thijsverreck.com/
 Claude Code Workflow CheatSheet
 https://www.facebook.com/photo/?fbid=122158270484719718
 
-
 GitHub - googleworkspace/cli: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. · GitHub
 https://github.com/googleworkspace/cli
 
 GitHub - Gen-Verse/OpenClaw-RL: OpenClaw-RL: Train any agent simply by talking · GitHub
 https://github.com/Gen-Verse/OpenClaw-RL
-
 
 msitarzewski (Michael Sitarzewski) · GitHub
 https://github.com/msitarzewski/
@@ -250,7 +228,6 @@ https://github.com/msitarzewski/agency-agents
 7 new open source AI tools you need right now… - YouTube
 https://www.youtube.com/watch?v=Xn-gtHDsaPY
 
-
 PropmtFoo
 MicroFish
 NanoChat
@@ -258,13 +235,11 @@ Impeccable
 Heretic
 OpenViking
 
-
 called EvoSkill - Facebook
 https://www.facebook.com/0xSojalSec/posts/pfbid021tx9GWuDtV7bP8HPkD53xDFZoRPgahUFPq4ukwqtUyfYuphXa6Uq7MfuJ9CxTnjcl
 
 EvoSkill: Automated Skill Discovery for Multi-Agent Systems - 2603.02766v1.pdf
 https://arxiv.org/pdf/2603.02766
-
 
 URL list from Friday, Mar. 13 2026 20:03 PM
 To copy this list, type [Ctrl] A, then type [Ctrl] C.
