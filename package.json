@@ -1,7 +1,7 @@
 {
 	"name": "@ripple-ts/template-basic",
-	"version": "0.0.0",
-	"description": "",
+	"version": "0.0.1",
+	"description": "just a test of the 'Ripple' framework",
 	"type": "module",
 	"engines": {
 		"node": ">=20.0.0"
@@ -17,30 +17,27 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"@ripple-ts/eslint-parser": "0.3.8",
-		"@ripple-ts/eslint-plugin": "0.3.8",
-		"@ripple-ts/prettier-plugin": "0.3.8",
-		"@ripple-ts/typescript-plugin": "0.3.8",
-		"@ripple-ts/vite-plugin": "0.3.8",
-		"@typescript-eslint/parser": "^8.58.1",
-		"eslint": "^9.39.4",
-		"prettier": "^3.8.2",
-		"typescript": "^5.9.3",
-		"vite": "^7.3.6"
+		"@ripple-ts/eslint-parser": "0.3.25",
+		"@ripple-ts/eslint-plugin": "0.3.25",
+		"@ripple-ts/prettier-plugin": "0.3.25",
+		"@ripple-ts/vite-plugin": "0.4.7",
+		"@typescript-eslint/parser": "^8.71.1",
+		"eslint": "^10.12.0",
+		"prettier": "^3.9.10",
+		"typescript": "^6.0.3",
+		"vite": "^8.3.4"
 	},
 	"dependencies": {
-		"ripple": "0.3.8"
+		"ripple": "0.4.7"
 	},
-	"pnpm": {
-		"overrides": {
-			"brace-expansion": "^1.1.18",
-			"devalue": "^5.8.1",
-			"esbuild": "^0.28.2",
-			"@humanfs/node": "^0.16.8",
-			"js-yaml": "^4.3.1",
-			"nanoid": "^3.3.18",
-			"postcss": "^8.5.28"
-		}
+	"overrides": {
+		"brace-expansion": "^1.1.18",
+		"devalue": "^5.8.1",
+		"esbuild": "^0.28.2",
+		"@humanfs/node": "^0.16.8",
+		"js-yaml": "^4.3.1",
+		"nanoid": "^3.3.18",
+		"postcss": "^8.5.28"
 	},
-	"packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
+	"packageManager": "pnpm@12.11.2+sha512.25a51652a196785af5f28bda6dfe8dc582ebefa4ac1d180221ce1390231c5fb76637822ea4b6e4633ce74acdcb0a77f725af11bad38177fdeddaee818a955cb9"
 }
